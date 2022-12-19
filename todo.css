@@ -1,0 +1,33 @@
+.content {
+    width: 40%;
+    background-color: antiquewhite;
+}
+
+i {
+    color: red;
+}
+
+.todoRow {
+    display: flex;
+}
+
+.textDiv {
+    width: 50%;
+    word-wrap: break-word;
+    text-align: center;
+}
+
+.iconDiv {
+    width: 50%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.lineStrike {
+    text-decoration: line-through;
+}
+
+a:hover {
+    cursor: pointer;
+}
